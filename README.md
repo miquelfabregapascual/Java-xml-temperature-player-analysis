@@ -1,4 +1,4 @@
-# Java-xml-temperature-player-analysis
+# Java-xml-temperature-player-analysis-By Miquel
 Java XML Data Analysis: Temperature and Player Stats
 
 ## Technologies Used:
