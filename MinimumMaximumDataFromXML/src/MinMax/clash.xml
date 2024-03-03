@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Player>
+        <name>Alexander Magnus</name>
+        <trophies>2500</trophies>
+        <level>25</level>
+        <gold>23456</gold>
+        <gems>3245</gems>
+        <stars>32454</stars>
+        <games>
+            <game>
+                <date>5 hours ago</date>
+                <result>0-3</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>5 hours ago</date>
+                <result>2-3</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>5 hours ago</date>
+                <result>1-3</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+        </games>
+    </Player>
+    <Player>
+        <name>Julius Cesar</name>
+        <trophies>2800</trophies>
+        <level>25</level>
+        <gold>23956</gold>
+        <gems>32345</gems>
+        <stars>32754</stars>
+        <games>
+            <game>
+                <date>1 hour ago</date>
+                <result>3-1</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>3 hours ago</date>
+                <result>3-2</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>5 hours ago</date>
+                <result>3-0</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+        </games>
+    </Player>
+    <Player>
+        <name>William Wallace</name>
+        <trophies>200</trophies>
+        <level>254</level>
+        <gold>2356</gold>
+        <gems>32235</gems>
+        <stars>32484</stars>
+        <games>
+            <game>
+                <date>1 hour ago</date>
+                <result>3-1</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>4 hours ago</date>
+                <result>3-0</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+            <game>
+                <date>4 hours ago</date>
+                <result>3-2</result>
+                <duration>3m</duration>
+                <type>friendly</type>
+            </game>
+        </games>
+    </Player>
+</root>
