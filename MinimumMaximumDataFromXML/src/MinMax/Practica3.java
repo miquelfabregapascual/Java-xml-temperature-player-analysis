@@ -187,7 +187,7 @@ public class Practica3 {
             Element cde = (Element) cds.item(i);
 
             if (cde.getElementsByTagName("tmax").getLength() > 0) {
-                double temp = NumberFormat.getInstance().parse(cde1.getElementsByTagName("tmax").item(0).getTextContent()).doubleValue();
+                double temp = NumberFormat.getInstance().parse(cde.getElementsByTagName("tmax").item(0).getTextContent()).doubleValue();
 
                 if (temp > maxTemp) {
                     maxTemp = temp;
