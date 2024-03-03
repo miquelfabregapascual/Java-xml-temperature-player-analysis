@@ -27,37 +27,28 @@ Finds the player with the most trophies in Clash and displays their statistics.
 
 Finds the maximum and minimum temperature in 2015.
 
-#### Maximum Temperature 2015:
+#### Maximum/Minimum Temperature 2015:
 
 ![Exercise 3 - Max Temperature 2015](/Images/MaxMinTemp2015.png)
 
-#### Minimum Temperature 2015:
-
-![Exercise 3 - Min Temperature 2015](/Images/MaxMinTemp2015.png)
 
 ### Exercise 4
 
 Finds the maximum and minimum temperature in 2016.
 
-#### Maximum Temperature 2016:
+#### Maximum/Minimum Temperature 2016:
 
 ![Exercise 4 - Max Temperature 2016](/Images/MaxMinTemp2016.png)
 
-#### Minimum Temperature 2016:
-
-![Exercise 4 - Min Temperature 2016](/Images/MaxMinTemp2016.png)
 
 ### Exercise 5
 
 Finds the maximum and minimum temperature in 2017.
 
-#### Maximum Temperature 2017:
+#### Maximum/Minimum Temperature 2017:
 
 ![Exercise 5 - Max Temperature 2017](/Images/MaxMinTemp2017.png)
 
-#### Minimum Temperature 2017:
-
-![Exercise 5 - Min Temperature 2017](/Images/MaxMinTemp2017.png)
 
 ## How to Run
 
